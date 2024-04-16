@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mslearn-modulo4-aula4-desafio-de-formatacao", "mslearn-modulo4-aula4-desafio-de-formatacao.csproj", "{D52010D1-A67B-4C22-BDDA-F583249FC9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D52010D1-A67B-4C22-BDDA-F583249FC9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D52010D1-A67B-4C22-BDDA-F583249FC9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D52010D1-A67B-4C22-BDDA-F583249FC9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D52010D1-A67B-4C22-BDDA-F583249FC9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472C3A5D-4D4D-4BF8-8524-D24049F821A0}
+	EndGlobalSection
+EndGlobal
