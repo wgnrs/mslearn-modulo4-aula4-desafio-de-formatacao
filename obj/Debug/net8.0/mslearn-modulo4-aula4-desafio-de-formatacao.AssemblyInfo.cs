@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mslearn-modulo4-aula4-desafio-de-formatacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c50ca54371db0f2d17d940b3827b5910681819b")]
 [assembly: System.Reflection.AssemblyProductAttribute("mslearn-modulo4-aula4-desafio-de-formatacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mslearn-modulo4-aula4-desafio-de-formatacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
